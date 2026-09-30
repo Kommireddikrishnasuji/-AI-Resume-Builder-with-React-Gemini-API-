@@ -163,7 +163,7 @@ Ensure the response is structured, clear, and easy to display in a React app.
                     <div className="row justify-content-center text-center">
                         <div className="col-lg-8">
                             <h1 className="display-4 fw-bold mb-3">AI Resume Builder</h1>
-                            <h4>By Tech Jashwanth</h4>
+                            <h4>By Krishna Suji Kommireddi</h4>
                             <p className="lead mb-0">Create professional cover letters and optimize your resume with AI-powered insights</p>
                         </div>
                     </div>
