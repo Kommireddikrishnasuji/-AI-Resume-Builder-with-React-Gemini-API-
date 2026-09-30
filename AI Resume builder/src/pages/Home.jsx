@@ -135,7 +135,7 @@ Output (format clearly in sections):
 
 Ensure the response is structured, clear, and easy to display in a React app. 
         `;
-        const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+        const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent';
         const options = {
             method: 'POST',
             headers: {
